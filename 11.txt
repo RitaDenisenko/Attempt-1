@@ -1,0 +1,29 @@
+DROP SEQUENCE seq_appartment;
+
+DROP SEQUENCE seq_building;
+
+DROP SEQUENCE seq_client;
+
+DROP SEQUENCE seq_complex;
+
+DROP SEQUENCE seq_contracttype;
+
+DROP SEQUENCE seq_contract;
+
+DROP SEQUENCE seq_curstatus;
+
+DROP SEQUENCE seq_district;
+
+DROP SEQUENCE seq_employee;
+
+DROP SEQUENCE seq_objtype;
+
+DROP SEQUENCE seq_paydoc;
+
+DROP SEQUENCE seq_position;
+
+DROP SEQUENCE seq_salary;
+
+DROP SEQUENCE seq_street;
+
+DROP SEQUENCE seq_walls;
