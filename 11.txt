@@ -1,6 +1,7 @@
 1
 2
 3
+4
 DROP SEQUENCE seq_appartment;
 
 DROP SEQUENCE seq_building;
